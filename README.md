@@ -59,9 +59,7 @@ Detailed report available in `Assignment_4.pdf` including:
 ├── traffic_data_etl.py
 ├── README.md
 ├── Assignment_4.pdf
-├── screenshots/
-├── requirements.txt
-└── .gitignore
+
 ```
 
 ## 🧾 Requirements
